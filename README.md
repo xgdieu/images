@@ -1,7 +1,6 @@
 # images!
-![logo]![z6902685002993_19c1e9bd7b299387a35a5119f97123a7](https://github.com/user-attachments/assets/c2a721bd-d79b-4a82-b8bc-19e707c37c19)
+![z7187257087129_9a0914f8d744a3fb3435650c0a1188a6](https://github.com/user-attachments/assets/9db8900f-7e3d-4882-a02d-9746fbbd5130)
 
-![350128598_6740584382653262_2657123074838406782_n](https://github.com/user-attachments/assets/02359cce-4131-4f85-b022-5e140ea5972d)
 
 
 
