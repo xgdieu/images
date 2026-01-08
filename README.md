@@ -1,5 +1,6 @@
 # images!
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/fd02fecf-0f4c-415e-9b9c-3e2f041454c6" />
+<img width="676" height="644" alt="image" src="https://github.com/user-attachments/assets/0400ce32-9683-474a-9cae-fbd07ff3ab4a" />
+
 
 
 
