@@ -1,5 +1,6 @@
 # images!
-![z7187257087129_9a0914f8d744a3fb3435650c0a1188a6](https://github.com/user-attachments/assets/9db8900f-7e3d-4882-a02d-9746fbbd5130)
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/fd02fecf-0f4c-415e-9b9c-3e2f041454c6" />
+
 
 
 
