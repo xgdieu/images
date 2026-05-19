@@ -2,6 +2,7 @@
 # images!
 <img width="676" height="644" alt="image" src="https://github.com/user-attachments/assets/0400ce32-9683-474a-9cae-fbd07ff3ab4a" />
 <img width="1536" height="2048" alt="TECS_3x4" src="https://github.com/user-attachments/assets/47573e08-4752-4801-a554-d37eaf4e1154" />
+  <img width="2048" height="1152" alt="TECS_16x9" src="https://github.com/user-attachments/assets/0b80f0a9-895a-4cb5-804e-fd06cdbe32dc" />
 
 
 
